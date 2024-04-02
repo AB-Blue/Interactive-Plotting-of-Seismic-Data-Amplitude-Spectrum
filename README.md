@@ -37,7 +37,7 @@ Run the code on Jupyter notebook IDE
 --------------------------------------------------------------------------------------------------------------------------------------
 # More information:
 
-https:
+https://www.linkedin.com/feed/update/urn:li:ugcPost:7180819289472413696/
+https://www.youtube.com/watch?v=PIOD-aQaN2Y 
 
-https:
 
